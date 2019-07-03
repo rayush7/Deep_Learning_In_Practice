@@ -18,6 +18,6 @@ __KeyWords__: CNNs
  
  ### Assignment 3- Weakly Supervised
  
-  __KeyWords__: Deep Q Learning
+  __KeyWords__: DCGAN
  
   [Solutions](Assignment_3/RAI_Ayush_K.ipynb)
